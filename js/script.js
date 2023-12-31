@@ -124,4 +124,3 @@ function details(id) {
   window.location = `./details.html?id=${id}`;
 }
 
-// ----------Sort Function--------
